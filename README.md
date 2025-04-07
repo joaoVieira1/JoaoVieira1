@@ -3,8 +3,7 @@
 
 ## Graduando em Tecnologia em Análise e Desenvolvimento de Sistemas - IFSP
 
-Entusiasta da área de tecnologia, procuro sempre me atualizar e especializar em novas 
-tecnologias da área de desenvolvimento. Atualmente tenho 19 anos de idade e procuro minha primeira experiência profissional!
+Aqui você encontrará inúmeros repositórios documentando projetos e estudos referentes as demais tecnologias listadas a baixo!
 
 Acompanhe comigo a minha evolução através deste perfil!
 
